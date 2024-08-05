@@ -1,6 +1,6 @@
-<h3>💪 Sou um Personal Trainer em transição de carreira para Programador </h3>
+<h3>💪 Sou um Estudante de Tecnologia da Informação apaixonado por tecnologia </h3>
 <h4>💻 3º Período de Tecnologia da Informação - UNESA </h4>
-<p> 📚 Atualmente estou aprendendo sobre Python, Engenharia de Software no geral e Arquitetura de Redes  </p>
+<p> 📚 Atualmente estou aprendendo sobre .NET,SQL, Arquitetura de Redes e Desenvolvimento de Software no geral  </p>
 
 ##
 
